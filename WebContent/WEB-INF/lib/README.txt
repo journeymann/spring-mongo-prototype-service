@@ -1,0 +1,35 @@
+## Lib files:
+
+* bson-3.0.4.jar
+* com.sun.jersey.jersey-server-1.4.0.jar
+* jackson-annotations-2.7.1.jar
+* jackson-core-2.7.0.jar
+* jackson-databind-2.7.1.jar
+* jackson-dataformat-xml-2.7.1.jar
+* jackson-module-jaxb-annotations-2.7.1.jar
+* javax.servlet-api-3.1.0.jar
+* javax.ws.rs-api-2.0.1.jar
+* jersey-core-1.19.2.jar
+* junit-4.12.jar
+* log4j-api-2.1.jar
+* log4j-core-2.1.jar
+* mongo-java-driver-3.0.4.jar
+* org-apache-commons-logging.jar
+* slf4j-api.jar
+* spring-aop-4.3.4.RELEASE.jar
+* spring-aspects-4.3.4.RELEASE.jar
+* spring-beans-4.3.4.RELEASE.jar
+* spring-context-4.3.4.RELEASE.jar
+* spring-context-support-4.3.4.RELEASE.jar
+* spring-core-4.3.4.RELEASE.jar
+* spring-data-commons-core-1.4.1.RELEASE.jar
+* spring-data-jpa-1.10.5.RELEASE.jar
+* spring-data-mongodb-1.9.5.RELEASE.jar
+* spring-expression-4.3.4.RELEASE.jar
+* spring-instrument-4.3.4.RELEASE.jar
+* spring-instrument-tomcat-4.3.4.RELEASE.jar
+* spring-jdbc-4.3.4.RELEASE.jar
+* spring-orm-4.3.4.RELEASE.jar
+* spring-web-4.3.4.RELEASE.jar
+* spring-webmvc-4.3.4.RELEASE.jar
+* stax2-api-3.1.4.jar
